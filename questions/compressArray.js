@@ -13,6 +13,7 @@
     if (nowNumber === nextNumber && !answer[answer.length -1]) {
       answer.push(nextNumber);
     }
+
     if (nowNumber !== nextNumber) {
       answer.push(nextNumber);
     }
