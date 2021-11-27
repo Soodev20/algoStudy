@@ -2,7 +2,6 @@
 
 Study & recap algorithms
 
-Question with * means that I've seen it from somewhere else.
 
 11/11/2021 deepEquals
 
@@ -20,3 +19,9 @@ Question with * means that I've seen it from somewhere else.
 
 
 11/17/2021 maxMinLotto
+
+
+11/18/2021 xGapNumbers => Need to fix test
+
+
+11/27/2021 addingTwoNumbers
